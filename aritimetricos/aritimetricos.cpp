@@ -5,7 +5,7 @@ int main() {
     
     // obtenção das notas
     std::cout << "Digite a nota 01: ";
-    std::cin >> nota1;
+    std::cin >> nota1;  
 
     std::cout << "Digite a nota 02: ";
     std::cin >> nota2;
